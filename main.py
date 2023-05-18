@@ -2129,4 +2129,4 @@ def UserRegister():
 	#else:return render_template("Register.html",error='Invalid Register')
 
 if __name__ == '__main__':
-	app.run(host='127.0.0.1', port=8080, debug=True)
+	app.run(host='127.0.0.1', port=0000, debug=False)
